@@ -1,7 +1,7 @@
 body{
     background-color: red;
     display: flex;
-
+text-align: center;
 }
 h1{
     font-size: 22px;
